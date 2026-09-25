@@ -237,4 +237,4 @@ This repository serves as the official landing page for Trend Micro Internet Sec
 **Get the most recent version of Trend Micro Internet Security today!**
 
 ---
-**Last updated:** 2026-09-25 00:16:19 UTC
+**Last updated:** 2026-09-25 05:44:26 UTC
